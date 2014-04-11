@@ -1,0 +1,88 @@
+﻿#header {
+		z-index: 1;
+	position: fixed;
+	width: 97.5%;
+	margin-top: -20px;
+	height: 60px;
+	background-color: #668284;
+	margin-bottom: 10px;
+}
+#title {
+	float:left;
+	margin-left: 5px;
+	padding-top: 5px;
+	font-size: 20px;
+	font-family: Helvetica, sans-serif;
+	color: #ffffff; text-decoration: underline;
+}
+#spacer {
+	height: 10px;
+}
+#navigation {
+	border-radius: 5px;
+	background-color: maroon;
+	
+	position: relative;
+	width: 97.5%;
+
+	margin-bottom: 10px;
+height: 40px;
+margin-top: 50px;
+
+
+}
+#navtitle {
+	font-size: 15px;
+	font-familly: Helvetica, sans-serif;
+	color: #fff;
+}
+#navlist {
+	color: #fff;
+}
+#main {
+
+	border-radius: 5px;
+	background-color: maroon;
+	width: 75%;
+	margin: 10px;
+	padding: 10px;
+
+}
+.heading {
+	font-size: 20px;
+	color: white;
+	font-family: Helvetica, sans-serif;
+	margins: 5px;
+}
+.bigheading {
+	font-family: Helvetica, sans-serif;
+	font-size: 26px;
+	color: white;
+	text-decoration: underline;
+}
+p {
+	font-family: Helvetica, sans-serif;
+	color: white;
+}
+a {
+	font-family: Ubuntu, sans-serif;
+	color: green;
+}
+td a {
+	color: white;
+	text-decoration: underline;
+}
+* {
+	margins: 5px;
+}
+#1nav {
+	float: left;
+}
+#2nav {
+	float: right;
+}
+#footer {
+	background-color: black;
+	width: 97.5%;
+	height: 100px;
+}
